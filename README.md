@@ -11,3 +11,21 @@ Smart Cart is an AI-powered autonomous checkout system for retail stores, design
 3. QR Code Payment: Generates a QR code for payment, allowing users to pay by simply scanning the code with their mobile devices.
 
 4. Human-Following Feature: Implemented using Arduino and ultrasonic sensors to optimize user navigation and convenience within the retail environment.
+
+# How It Works
+
+Item Detection: Items placed on the cart are visually detected and identified using machine learning technologies.
+
+Automatic Billing: Identified items are automatically added to the cart, and the bill is generated instantaneously.
+
+QR Code Generation: A QR code for the bill is generated, allowing users to complete the payment by scanning the code.
+
+Human-Following: The cart is equipped with an Arduino and ultrasonic sensors to follow the user around the store, optimizing convenience.
+
+# Components
+
+Machine Learning Algorithms: For accurate and instant recognition of items.
+
+QR Code Generator: For generating the payment QR code.
+
+Arduino and Ultrasonic Sensors: For the human-following feature
