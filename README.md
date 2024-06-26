@@ -14,18 +14,18 @@ Smart Cart is an AI-powered autonomous checkout system for retail stores, design
 
 # How It Works
 
-Item Detection: Items placed on the cart are visually detected and identified using machine learning technologies.
+1. Item Detection: Items placed on the cart are visually detected and identified using machine learning technologies.
 
-Automatic Billing: Identified items are automatically added to the cart, and the bill is generated instantaneously.
+2. Automatic Billing: Identified items are automatically added to the cart, and the bill is generated instantaneously.
 
-QR Code Generation: A QR code for the bill is generated, allowing users to complete the payment by scanning the code.
+3. QR Code Generation: A QR code for the bill is generated, allowing users to complete the payment by scanning the code.
 
-Human-Following: The cart is equipped with an Arduino and ultrasonic sensors to follow the user around the store, optimizing convenience.
+4. Human-Following: The cart is equipped with an Arduino and ultrasonic sensors to follow the user around the store, optimizing convenience.
 
 # Components
 
-Machine Learning Algorithms: For accurate and instant recognition of items.
+1. Machine Learning Algorithms: For accurate and instant recognition of items.
 
-QR Code Generator: For generating the payment QR code.
+2. QR Code Generator: For generating the payment QR code.
 
-Arduino and Ultrasonic Sensors: For the human-following feature
+3. Arduino and Ultrasonic Sensors: For the human-following feature
