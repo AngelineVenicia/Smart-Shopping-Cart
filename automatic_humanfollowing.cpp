@@ -152,3 +152,6 @@ void stop() {
   analogWrite(RIGHT_MOTOR_PIN1, LOW);
   analogWrite(RIGHT_MOTOR_PIN2, LOW);
 }
+
+
+// GenAI Trial
